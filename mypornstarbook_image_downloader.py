@@ -65,4 +65,3 @@ for anchor in dom.by_tag('a'):
             shutil.move(file2, gal_dir) 
 
 os.rmdir(rename_dir)
-    
